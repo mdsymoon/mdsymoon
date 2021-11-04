@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=symoon" alt="symoon" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Redux**
 
 - 👨‍💻 All of my projects are available at [https://md-symoon.web.app/](https://md-symoon.web.app/)
 
